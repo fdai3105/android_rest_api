@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Database_WebServer_HangHoa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DoAn_AndroidCoBan_20199" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DoAn_Android_2020" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DoAn_HL_2020" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Thread" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android_lession03_retrofit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flutter_bloc_chat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/notification-badge" vcs="Git" />
+  </component>
+</project>
